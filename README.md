@@ -8,7 +8,7 @@
 
 ## Instructions
 
-Find the Kaggle competition with your cohort name, i.e. **diamonds-datamad0321**, https://www.kaggle.com/c/diamonds-datamad0321
+Find the Kaggle competition with your cohort name, i.e. **diamonds-datamad0521**, https://www.kaggle.com/c/diamonds-datamad0521
 ### train.csv
 * 1. **Processing/cleaning** the dataset: this should be later modularized in functions.
 * 2. **Train** a model (fit & predict) with the data in `train.csv`. This file does contain a **y**.
